@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     
     <body>
         <div class="container">
-            <a href="https://skillsprint-edtech-project.vercel.app"><img class="logo"
+            <a href="https://skillsprint-edtech.vercel.app/"><img class="logo"
             src="https://drive.google.com/uc?export=view&id=1vHVAN34Gm2Ei3AwIyvPcUhEXCvKYNHE0" alt="SkillSprint Logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">
