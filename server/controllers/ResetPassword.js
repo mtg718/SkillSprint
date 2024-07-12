@@ -29,7 +29,7 @@ exports.resetPasswordToken = async (req, res) => {
 		console.log("DETAILS", updatedDetails);
 
 		// create frontend url
-		const url = `https://skillsprint-alpha.vercel.app/update-password/${token}`;
+		const url = `https://skillsprint-edtech.vercel.app/update-password/${token}`;
 
 		// send mail with this url
 		await mailSender(
