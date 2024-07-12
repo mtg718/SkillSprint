@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://skillsprint-alpha.vercel.app" 
+  "https://skillsprint-edtech.vercel.app/" 
 ];
 
 app.use(
